@@ -38,11 +38,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#38](https://github.com/mrjimenez/zeta_jsxgraph_template/pull/38) in [mrjimenez/zeta_jsxgraph_template](https://github.com/mrjimenez/zeta_jsxgraph_template)
-2. 🗣 Commented on [#419](https://github.com/pupnp/pupnp/issues/419) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
-3. 🗣 Commented on [#419](https://github.com/pupnp/pupnp/issues/419) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
-4. 🎉 Merged PR [#420](https://github.com/pupnp/pupnp/pull/420) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
-5. 🗣 Commented on [#419](https://github.com/pupnp/pupnp/issues/419) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
+1. 🗣 Commented on [#421](https://github.com/pupnp/pupnp/issues/421) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
+2. 🎉 Merged PR [#421](https://github.com/pupnp/pupnp/pull/421) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
+3. 🗣 Commented on [#349](https://github.com/amule-project/amule/issues/349) in [amule-project/amule](https://github.com/amule-project/amule)
+4. 🗣 Commented on [#349](https://github.com/amule-project/amule/issues/349) in [amule-project/amule](https://github.com/amule-project/amule)
+5. 🗣 Commented on [#299](https://github.com/amule-project/amule/issues/299) in [amule-project/amule](https://github.com/amule-project/amule)
 <!--END_SECTION:activity-->
 
 ---
