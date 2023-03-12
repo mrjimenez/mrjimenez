@@ -38,11 +38,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#40](https://github.com/mrjimenez/zeta_jsxgraph_template/pull/40) in [mrjimenez/zeta_jsxgraph_template](https://github.com/mrjimenez/zeta_jsxgraph_template)
-2. 🗣 Commented on [#349](https://github.com/amule-project/amule/issues/349) in [amule-project/amule](https://github.com/amule-project/amule)
-3. 🗣 Commented on [#421](https://github.com/pupnp/pupnp/issues/421) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
-4. 🎉 Merged PR [#421](https://github.com/pupnp/pupnp/pull/421) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
-5. 🗣 Commented on [#349](https://github.com/amule-project/amule/issues/349) in [amule-project/amule](https://github.com/amule-project/amule)
+1. 🎉 Merged PR [#31](https://github.com/mrjimenez/real-world-nuxt/pull/31) in [mrjimenez/real-world-nuxt](https://github.com/mrjimenez/real-world-nuxt)
+2. 🎉 Merged PR [#30](https://github.com/mrjimenez/real-world-nuxt/pull/30) in [mrjimenez/real-world-nuxt](https://github.com/mrjimenez/real-world-nuxt)
+3. 🎉 Merged PR [#26](https://github.com/mrjimenez/real-world-nuxt/pull/26) in [mrjimenez/real-world-nuxt](https://github.com/mrjimenez/real-world-nuxt)
+4. 🎉 Merged PR [#25](https://github.com/mrjimenez/real-world-nuxt/pull/25) in [mrjimenez/real-world-nuxt](https://github.com/mrjimenez/real-world-nuxt)
+5. 🎉 Merged PR [#35](https://github.com/mrjimenez/real-world-nuxt/pull/35) in [mrjimenez/real-world-nuxt](https://github.com/mrjimenez/real-world-nuxt)
 <!--END_SECTION:activity-->
 
 ---
