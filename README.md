@@ -39,10 +39,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#426](https://github.com/pupnp/pupnp/issues/426) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
-2. ❗️ Closed issue [#424](https://github.com/pupnp/pupnp/issues/424) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
-3. 🎉 Merged PR [#426](https://github.com/pupnp/pupnp/pull/426) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
-4. 🎉 Merged PR [#41](https://github.com/mrjimenez/zeta_jsxgraph_template/pull/41) in [mrjimenez/zeta_jsxgraph_template](https://github.com/mrjimenez/zeta_jsxgraph_template)
-5. 🎉 Merged PR [#31](https://github.com/mrjimenez/real-world-nuxt/pull/31) in [mrjimenez/real-world-nuxt](https://github.com/mrjimenez/real-world-nuxt)
+2. 🗣 Commented on [#426](https://github.com/pupnp/pupnp/issues/426) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
+3. ❗️ Closed issue [#424](https://github.com/pupnp/pupnp/issues/424) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
+4. 🎉 Merged PR [#426](https://github.com/pupnp/pupnp/pull/426) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
+5. 🎉 Merged PR [#41](https://github.com/mrjimenez/zeta_jsxgraph_template/pull/41) in [mrjimenez/zeta_jsxgraph_template](https://github.com/mrjimenez/zeta_jsxgraph_template)
 <!--END_SECTION:activity-->
 
 ---
