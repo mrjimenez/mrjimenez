@@ -38,11 +38,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#426](https://github.com/pupnp/pupnp/issues/426) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
-2. 🗣 Commented on [#426](https://github.com/pupnp/pupnp/issues/426) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
-3. ❗️ Closed issue [#424](https://github.com/pupnp/pupnp/issues/424) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
-4. 🎉 Merged PR [#426](https://github.com/pupnp/pupnp/pull/426) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
-5. 🎉 Merged PR [#41](https://github.com/mrjimenez/zeta_jsxgraph_template/pull/41) in [mrjimenez/zeta_jsxgraph_template](https://github.com/mrjimenez/zeta_jsxgraph_template)
+1. 🎉 Merged PR [#1](https://github.com/mrjimenez/sme-lsm9ds1-library/pull/1) in [mrjimenez/sme-lsm9ds1-library](https://github.com/mrjimenez/sme-lsm9ds1-library)
+2. 💪 Opened PR [#1](https://github.com/mrjimenez/sme-lsm9ds1-library/pull/1) in [mrjimenez/sme-lsm9ds1-library](https://github.com/mrjimenez/sme-lsm9ds1-library)
+3. ❌ Closed PR [#4](https://github.com/ameltech/sme-lsm9ds1-library/pull/4) in [ameltech/sme-lsm9ds1-library](https://github.com/ameltech/sme-lsm9ds1-library)
+4. 💪 Opened PR [#4](https://github.com/ameltech/sme-lsm9ds1-library/pull/4) in [ameltech/sme-lsm9ds1-library](https://github.com/ameltech/sme-lsm9ds1-library)
+5. 🗣 Commented on [#426](https://github.com/pupnp/pupnp/issues/426) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
 <!--END_SECTION:activity-->
 
 ---
