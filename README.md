@@ -38,11 +38,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/mrjimenez/sme-lsm9ds1-library/pull/1) in [mrjimenez/sme-lsm9ds1-library](https://github.com/mrjimenez/sme-lsm9ds1-library)
-2. 💪 Opened PR [#1](https://github.com/mrjimenez/sme-lsm9ds1-library/pull/1) in [mrjimenez/sme-lsm9ds1-library](https://github.com/mrjimenez/sme-lsm9ds1-library)
-3. ❌ Closed PR [#4](https://github.com/ameltech/sme-lsm9ds1-library/pull/4) in [ameltech/sme-lsm9ds1-library](https://github.com/ameltech/sme-lsm9ds1-library)
-4. 💪 Opened PR [#4](https://github.com/ameltech/sme-lsm9ds1-library/pull/4) in [ameltech/sme-lsm9ds1-library](https://github.com/ameltech/sme-lsm9ds1-library)
-5. 🗣 Commented on [#426](https://github.com/pupnp/pupnp/issues/426) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
+1. 🗣 Commented on [#785](https://github.com/adoptium/adoptium-support/issues/785) in [adoptium/adoptium-support](https://github.com/adoptium/adoptium-support)
+2. 🗣 Commented on [#423](https://github.com/pupnp/pupnp/issues/423) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
+3. 🗣 Commented on [#785](https://github.com/adoptium/adoptium-support/issues/785) in [adoptium/adoptium-support](https://github.com/adoptium/adoptium-support)
+4. 🗣 Commented on [#785](https://github.com/adoptium/adoptium-support/issues/785) in [adoptium/adoptium-support](https://github.com/adoptium/adoptium-support)
+5. 🗣 Commented on [#785](https://github.com/adoptium/adoptium-support/issues/785) in [adoptium/adoptium-support](https://github.com/adoptium/adoptium-support)
 <!--END_SECTION:activity-->
 
 ---
