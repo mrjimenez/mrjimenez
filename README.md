@@ -38,11 +38,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#785](https://github.com/adoptium/adoptium-support/issues/785) in [adoptium/adoptium-support](https://github.com/adoptium/adoptium-support)
-2. 🗣 Commented on [#785](https://github.com/adoptium/adoptium-support/issues/785) in [adoptium/adoptium-support](https://github.com/adoptium/adoptium-support)
-3. 🗣 Commented on [#423](https://github.com/pupnp/pupnp/issues/423) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
-4. 🗣 Commented on [#785](https://github.com/adoptium/adoptium-support/issues/785) in [adoptium/adoptium-support](https://github.com/adoptium/adoptium-support)
-5. 🗣 Commented on [#785](https://github.com/adoptium/adoptium-support/issues/785) in [adoptium/adoptium-support](https://github.com/adoptium/adoptium-support)
+1. 🎉 Merged PR [#42](https://github.com/mrjimenez/zeta_jsxgraph_template/pull/42) in [mrjimenez/zeta_jsxgraph_template](https://github.com/mrjimenez/zeta_jsxgraph_template)
+2. 🗣 Commented on [#785](https://github.com/adoptium/adoptium-support/issues/785#issuecomment-1586006520) in [adoptium/adoptium-support](https://github.com/adoptium/adoptium-support)
+3. 🗣 Commented on [#785](https://github.com/adoptium/adoptium-support/issues/785#issuecomment-1533012836) in [adoptium/adoptium-support](https://github.com/adoptium/adoptium-support)
+4. 🗣 Commented on [#423](https://github.com/pupnp/pupnp/issues/423#issuecomment-1532151592) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
+5. 🗣 Commented on [#785](https://github.com/adoptium/adoptium-support/issues/785#issuecomment-1531274685) in [adoptium/adoptium-support](https://github.com/adoptium/adoptium-support)
 <!--END_SECTION:activity-->
 
 ---
