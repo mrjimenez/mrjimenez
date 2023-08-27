@@ -38,11 +38,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/mrjimenez/JTAG/issues/10#issuecomment-1658945400) in [mrjimenez/JTAG](https://github.com/mrjimenez/JTAG)
-2. 🗣 Commented on [#423](https://github.com/pupnp/pupnp/issues/423#issuecomment-1644047462) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
-3. 🎉 Merged PR [#42](https://github.com/mrjimenez/zeta_jsxgraph_template/pull/42) in [mrjimenez/zeta_jsxgraph_template](https://github.com/mrjimenez/zeta_jsxgraph_template)
-4. 🗣 Commented on [#785](https://github.com/adoptium/adoptium-support/issues/785#issuecomment-1586006520) in [adoptium/adoptium-support](https://github.com/adoptium/adoptium-support)
-5. 🗣 Commented on [#423](https://github.com/pupnp/pupnp/issues/423#issuecomment-1532151592) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
+1. 🚀 Published release [release-1.14.18](https://github.com/pupnp/pupnp/releases/tag/release-1.14.18) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
+2. 🎉 Merged PR [#429](https://github.com/pupnp/pupnp/pull/429) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
+3. 💪 Opened PR [#429](https://github.com/pupnp/pupnp/pull/429) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
+4. 🎉 Merged PR [#428](https://github.com/pupnp/pupnp/pull/428) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
+5. 🗣 Commented on [#10](https://github.com/mrjimenez/JTAG/issues/10#issuecomment-1686512213) in [mrjimenez/JTAG](https://github.com/mrjimenez/JTAG)
 <!--END_SECTION:activity-->
 
 ---
