@@ -38,11 +38,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#84](https://github.com/STMicroelectronics/STM32CubeL4/issues/84) in [STMicroelectronics/STM32CubeL4](https://github.com/STMicroelectronics/STM32CubeL4)
-2. 🚀 Published release [release-1.14.18](https://github.com/pupnp/pupnp/releases/tag/release-1.14.18) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
-3. 🎉 Merged PR [#429](https://github.com/pupnp/pupnp/pull/429) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
-4. 💪 Opened PR [#429](https://github.com/pupnp/pupnp/pull/429) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
-5. 🎉 Merged PR [#428](https://github.com/pupnp/pupnp/pull/428) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
+1. 💪 Opened PR [#431](https://github.com/pupnp/pupnp/pull/431) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
+2. ❗ Opened issue [#84](https://github.com/STMicroelectronics/STM32CubeL4/issues/84) in [STMicroelectronics/STM32CubeL4](https://github.com/STMicroelectronics/STM32CubeL4)
+3. 🚀 Published release [release-1.14.18](https://github.com/pupnp/pupnp/releases/tag/release-1.14.18) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
+4. 🎉 Merged PR [#429](https://github.com/pupnp/pupnp/pull/429) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
+5. 💪 Opened PR [#429](https://github.com/pupnp/pupnp/pull/429) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
 <!--END_SECTION:activity-->
 
 ---
