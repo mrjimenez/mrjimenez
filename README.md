@@ -38,11 +38,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#433](https://github.com/pupnp/pupnp/pull/433) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
-2. 💪 Opened PR [#432](https://github.com/pupnp/pupnp/pull/432) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
-3. 🎉 Merged PR [#431](https://github.com/pupnp/pupnp/pull/431) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
-4. 💪 Opened PR [#431](https://github.com/pupnp/pupnp/pull/431) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
-5. ❗ Opened issue [#84](https://github.com/STMicroelectronics/STM32CubeL4/issues/84) in [STMicroelectronics/STM32CubeL4](https://github.com/STMicroelectronics/STM32CubeL4)
+1. ❌ Closed PR [#1](https://github.com/mrjimenez/next_js_test/pull/1) in [mrjimenez/next_js_test](https://github.com/mrjimenez/next_js_test)
+2. 🎉 Merged PR [#2](https://github.com/mrjimenez/next_js_test/pull/2) in [mrjimenez/next_js_test](https://github.com/mrjimenez/next_js_test)
+3. 🎉 Merged PR [#3](https://github.com/mrjimenez/next_js_test/pull/3) in [mrjimenez/next_js_test](https://github.com/mrjimenez/next_js_test)
+4. 💪 Opened PR [#3](https://github.com/mrjimenez/next_js_test/pull/3) in [mrjimenez/next_js_test](https://github.com/mrjimenez/next_js_test)
+5. 💪 Opened PR [#2](https://github.com/mrjimenez/next_js_test/pull/2) in [mrjimenez/next_js_test](https://github.com/mrjimenez/next_js_test)
 <!--END_SECTION:activity-->
 
 ---
