@@ -38,11 +38,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/mrjimenez/next_js_test/pull/1) in [mrjimenez/next_js_test](https://github.com/mrjimenez/next_js_test)
-2. 🎉 Merged PR [#2](https://github.com/mrjimenez/next_js_test/pull/2) in [mrjimenez/next_js_test](https://github.com/mrjimenez/next_js_test)
-3. 🎉 Merged PR [#3](https://github.com/mrjimenez/next_js_test/pull/3) in [mrjimenez/next_js_test](https://github.com/mrjimenez/next_js_test)
-4. 💪 Opened PR [#3](https://github.com/mrjimenez/next_js_test/pull/3) in [mrjimenez/next_js_test](https://github.com/mrjimenez/next_js_test)
-5. 💪 Opened PR [#2](https://github.com/mrjimenez/next_js_test/pull/2) in [mrjimenez/next_js_test](https://github.com/mrjimenez/next_js_test)
+1. 🎉 Merged PR [#43](https://github.com/mrjimenez/zeta_jsxgraph_template/pull/43) in [mrjimenez/zeta_jsxgraph_template](https://github.com/mrjimenez/zeta_jsxgraph_template)
+2. ❌ Closed PR [#1](https://github.com/mrjimenez/next_js_test/pull/1) in [mrjimenez/next_js_test](https://github.com/mrjimenez/next_js_test)
+3. 🎉 Merged PR [#2](https://github.com/mrjimenez/next_js_test/pull/2) in [mrjimenez/next_js_test](https://github.com/mrjimenez/next_js_test)
+4. 🎉 Merged PR [#3](https://github.com/mrjimenez/next_js_test/pull/3) in [mrjimenez/next_js_test](https://github.com/mrjimenez/next_js_test)
+5. 💪 Opened PR [#3](https://github.com/mrjimenez/next_js_test/pull/3) in [mrjimenez/next_js_test](https://github.com/mrjimenez/next_js_test)
 <!--END_SECTION:activity-->
 
 ---
