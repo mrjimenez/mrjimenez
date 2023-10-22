@@ -38,11 +38,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#43](https://github.com/mrjimenez/zeta_jsxgraph_template/pull/43) in [mrjimenez/zeta_jsxgraph_template](https://github.com/mrjimenez/zeta_jsxgraph_template)
-2. ❌ Closed PR [#1](https://github.com/mrjimenez/next_js_test/pull/1) in [mrjimenez/next_js_test](https://github.com/mrjimenez/next_js_test)
-3. 🎉 Merged PR [#2](https://github.com/mrjimenez/next_js_test/pull/2) in [mrjimenez/next_js_test](https://github.com/mrjimenez/next_js_test)
-4. 🎉 Merged PR [#3](https://github.com/mrjimenez/next_js_test/pull/3) in [mrjimenez/next_js_test](https://github.com/mrjimenez/next_js_test)
-5. 💪 Opened PR [#3](https://github.com/mrjimenez/next_js_test/pull/3) in [mrjimenez/next_js_test](https://github.com/mrjimenez/next_js_test)
+1. 🎉 Merged PR [#38](https://github.com/mrjimenez/real-world-nuxt/pull/38) in [mrjimenez/real-world-nuxt](https://github.com/mrjimenez/real-world-nuxt)
+2. 🎉 Merged PR [#44](https://github.com/mrjimenez/zeta_jsxgraph_template/pull/44) in [mrjimenez/zeta_jsxgraph_template](https://github.com/mrjimenez/zeta_jsxgraph_template)
+3. 🗣 Commented on [#11](https://github.com/mrjimenez/JTAG/issues/11#issuecomment-1767444352) in [mrjimenez/JTAG](https://github.com/mrjimenez/JTAG)
+4. 🔒 Closed issue [#6](https://github.com/mrjimenez/clone-tabnews/issues/6) in [mrjimenez/clone-tabnews](https://github.com/mrjimenez/clone-tabnews)
+5. 🔒 Closed issue [#5](https://github.com/mrjimenez/clone-tabnews/issues/5) in [mrjimenez/clone-tabnews](https://github.com/mrjimenez/clone-tabnews)
 <!--END_SECTION:activity-->
 
 ---
