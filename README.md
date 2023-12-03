@@ -38,11 +38,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#505](https://github.com/vercel-community/php/pull/505#issuecomment-1823607958) in [vercel-community/php](https://github.com/vercel-community/php)
-2. 🗣 Commented on [#505](https://github.com/vercel-community/php/pull/505#issuecomment-1821846127) in [vercel-community/php](https://github.com/vercel-community/php)
-3. 🗣 Commented on [#505](https://github.com/vercel-community/php/pull/505#issuecomment-1821198677) in [vercel-community/php](https://github.com/vercel-community/php)
-4. 🗣 Commented on [#505](https://github.com/vercel-community/php/pull/505#issuecomment-1820111958) in [vercel-community/php](https://github.com/vercel-community/php)
-5. 💪 Opened PR [#505](https://github.com/vercel-community/php/pull/505) in [vercel-community/php](https://github.com/vercel-community/php)
+1. 🗣 Commented on [#84](https://github.com/STMicroelectronics/STM32CubeL4/issues/84#issuecomment-1830434895) in [STMicroelectronics/STM32CubeL4](https://github.com/STMicroelectronics/STM32CubeL4)
+2. 🗣 Commented on [#505](https://github.com/vercel-community/php/pull/505#issuecomment-1823607958) in [vercel-community/php](https://github.com/vercel-community/php)
+3. 🗣 Commented on [#505](https://github.com/vercel-community/php/pull/505#issuecomment-1821846127) in [vercel-community/php](https://github.com/vercel-community/php)
+4. 🗣 Commented on [#505](https://github.com/vercel-community/php/pull/505#issuecomment-1821198677) in [vercel-community/php](https://github.com/vercel-community/php)
+5. 🗣 Commented on [#505](https://github.com/vercel-community/php/pull/505#issuecomment-1820111958) in [vercel-community/php](https://github.com/vercel-community/php)
 <!--END_SECTION:activity-->
 
 ---
