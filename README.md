@@ -38,11 +38,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#436](https://github.com/pupnp/pupnp/pull/436) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
-2. 🗣 Commented on [#436](https://github.com/pupnp/pupnp/pull/436#issuecomment-1878651025) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
-3. 🗣 Commented on [#436](https://github.com/pupnp/pupnp/pull/436#issuecomment-1877175375) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
-4. 🔒 Closed issue [#7](https://github.com/mrjimenez/clone-tabnews/issues/7) in [mrjimenez/clone-tabnews](https://github.com/mrjimenez/clone-tabnews)
-5. 🗣 Commented on [#84](https://github.com/STMicroelectronics/STM32CubeL4/issues/84#issuecomment-1830434895) in [STMicroelectronics/STM32CubeL4](https://github.com/STMicroelectronics/STM32CubeL4)
+1. 🎉 Merged PR [#45](https://github.com/mrjimenez/zeta_jsxgraph_template/pull/45) in [mrjimenez/zeta_jsxgraph_template](https://github.com/mrjimenez/zeta_jsxgraph_template)
+2. 🎉 Merged PR [#436](https://github.com/pupnp/pupnp/pull/436) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
+3. 🗣 Commented on [#436](https://github.com/pupnp/pupnp/pull/436#issuecomment-1878651025) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
+4. 🗣 Commented on [#436](https://github.com/pupnp/pupnp/pull/436#issuecomment-1877175375) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
+5. 🔒 Closed issue [#7](https://github.com/mrjimenez/clone-tabnews/issues/7) in [mrjimenez/clone-tabnews](https://github.com/mrjimenez/clone-tabnews)
 <!--END_SECTION:activity-->
 
 ---
