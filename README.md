@@ -38,11 +38,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#45](https://github.com/mrjimenez/zeta_jsxgraph_template/pull/45) in [mrjimenez/zeta_jsxgraph_template](https://github.com/mrjimenez/zeta_jsxgraph_template)
-2. 🎉 Merged PR [#436](https://github.com/pupnp/pupnp/pull/436) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
-3. 🗣 Commented on [#436](https://github.com/pupnp/pupnp/pull/436#issuecomment-1878651025) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
-4. 🗣 Commented on [#436](https://github.com/pupnp/pupnp/pull/436#issuecomment-1877175375) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
-5. 🔒 Closed issue [#7](https://github.com/mrjimenez/clone-tabnews/issues/7) in [mrjimenez/clone-tabnews](https://github.com/mrjimenez/clone-tabnews)
+1. 💪 Opened PR [#513](https://github.com/vercel-community/php/pull/513) in [vercel-community/php](https://github.com/vercel-community/php)
+2. 🎉 Merged PR [#437](https://github.com/pupnp/pupnp/pull/437) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
+3. 🎉 Merged PR [#45](https://github.com/mrjimenez/zeta_jsxgraph_template/pull/45) in [mrjimenez/zeta_jsxgraph_template](https://github.com/mrjimenez/zeta_jsxgraph_template)
+4. 🎉 Merged PR [#436](https://github.com/pupnp/pupnp/pull/436) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
+5. 🗣 Commented on [#436](https://github.com/pupnp/pupnp/pull/436#issuecomment-1878651025) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
 <!--END_SECTION:activity-->
 
 ---
