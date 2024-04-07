@@ -38,11 +38,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#48](https://github.com/mrjimenez/zeta_jsxgraph_template/pull/48) in [mrjimenez/zeta_jsxgraph_template](https://github.com/mrjimenez/zeta_jsxgraph_template)
-2. 🎉 Merged PR [#53](https://github.com/mrjimenez/real-world-nuxt/pull/53) in [mrjimenez/real-world-nuxt](https://github.com/mrjimenez/real-world-nuxt)
-3. 🎉 Merged PR [#49](https://github.com/mrjimenez/real-world-nuxt/pull/49) in [mrjimenez/real-world-nuxt](https://github.com/mrjimenez/real-world-nuxt)
-4. 🎉 Merged PR [#50](https://github.com/mrjimenez/real-world-nuxt/pull/50) in [mrjimenez/real-world-nuxt](https://github.com/mrjimenez/real-world-nuxt)
-5. 🎉 Merged PR [#52](https://github.com/mrjimenez/real-world-nuxt/pull/52) in [mrjimenez/real-world-nuxt](https://github.com/mrjimenez/real-world-nuxt)
+1. 🔒 Closed issue [#8](https://github.com/mrjimenez/clone-tabnews/issues/8) in [mrjimenez/clone-tabnews](https://github.com/mrjimenez/clone-tabnews)
+2. 🗣 Commented on [#12](https://github.com/mrjimenez/JTAG/issues/12#issuecomment-2032962920) in [mrjimenez/JTAG](https://github.com/mrjimenez/JTAG)
+3. 🗣 Commented on [#13](https://github.com/mrjimenez/JTAG/issues/13#issuecomment-2032947904) in [mrjimenez/JTAG](https://github.com/mrjimenez/JTAG)
+4. 🎉 Merged PR [#48](https://github.com/mrjimenez/zeta_jsxgraph_template/pull/48) in [mrjimenez/zeta_jsxgraph_template](https://github.com/mrjimenez/zeta_jsxgraph_template)
+5. 🎉 Merged PR [#53](https://github.com/mrjimenez/real-world-nuxt/pull/53) in [mrjimenez/real-world-nuxt](https://github.com/mrjimenez/real-world-nuxt)
 <!--END_SECTION:activity-->
 
 ---
