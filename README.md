@@ -38,11 +38,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#176](https://github.com/pupnp/pupnp/issues/176#issuecomment-2081782998) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
-2. 🎉 Merged PR [#444](https://github.com/pupnp/pupnp/pull/444) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
-3. 🎉 Merged PR [#443](https://github.com/pupnp/pupnp/pull/443) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
-4. 🗣 Commented on [#442](https://github.com/pupnp/pupnp/issues/442#issuecomment-2078442239) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
-5. 💪 Opened PR [#444](https://github.com/pupnp/pupnp/pull/444) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
+1. 🎉 Merged PR [#14](https://github.com/mrjimenez/clone-tabnews/pull/14) in [mrjimenez/clone-tabnews](https://github.com/mrjimenez/clone-tabnews)
+2. 🎉 Merged PR [#1](https://github.com/mrjimenez/actions-learning-pathway/pull/1) in [mrjimenez/actions-learning-pathway](https://github.com/mrjimenez/actions-learning-pathway)
+3. 🗣 Commented on [#14](https://github.com/mrjimenez/JTAG/issues/14#issuecomment-2103773898) in [mrjimenez/JTAG](https://github.com/mrjimenez/JTAG)
+4. 💪 Opened PR [#15](https://github.com/mrjimenez/JTAG/pull/15) in [mrjimenez/JTAG](https://github.com/mrjimenez/JTAG)
+5. 🗣 Commented on [#14](https://github.com/mrjimenez/JTAG/issues/14#issuecomment-2101684403) in [mrjimenez/JTAG](https://github.com/mrjimenez/JTAG)
 <!--END_SECTION:activity-->
 
 ---
