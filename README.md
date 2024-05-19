@@ -38,11 +38,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14](https://github.com/mrjimenez/clone-tabnews/pull/14) in [mrjimenez/clone-tabnews](https://github.com/mrjimenez/clone-tabnews)
-2. 🎉 Merged PR [#1](https://github.com/mrjimenez/actions-learning-pathway/pull/1) in [mrjimenez/actions-learning-pathway](https://github.com/mrjimenez/actions-learning-pathway)
-3. 🗣 Commented on [#14](https://github.com/mrjimenez/JTAG/issues/14#issuecomment-2103773898) in [mrjimenez/JTAG](https://github.com/mrjimenez/JTAG)
-4. 💪 Opened PR [#15](https://github.com/mrjimenez/JTAG/pull/15) in [mrjimenez/JTAG](https://github.com/mrjimenez/JTAG)
-5. 🗣 Commented on [#14](https://github.com/mrjimenez/JTAG/issues/14#issuecomment-2101684403) in [mrjimenez/JTAG](https://github.com/mrjimenez/JTAG)
+1. 🔒 Closed issue [#12](https://github.com/mrjimenez/clone-tabnews/issues/12) in [mrjimenez/clone-tabnews](https://github.com/mrjimenez/clone-tabnews)
+2. 🗣 Commented on [#14](https://github.com/mrjimenez/JTAG/issues/14#issuecomment-2111254275) in [mrjimenez/JTAG](https://github.com/mrjimenez/JTAG)
+3. 🚀 Published release [1.0.17](https://github.com/mrjimenez/JTAG/releases/tag/1.0.17) in [mrjimenez/JTAG](https://github.com/mrjimenez/JTAG)
+4. 🎉 Merged PR [#17](https://github.com/mrjimenez/JTAG/pull/17) in [mrjimenez/JTAG](https://github.com/mrjimenez/JTAG)
+5. 💪 Opened PR [#17](https://github.com/mrjimenez/JTAG/pull/17) in [mrjimenez/JTAG](https://github.com/mrjimenez/JTAG)
 <!--END_SECTION:activity-->
 
 ---
