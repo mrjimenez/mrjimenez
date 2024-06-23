@@ -38,11 +38,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#84](https://github.com/STMicroelectronics/STM32CubeL4/issues/84#issuecomment-2122255640) in [STMicroelectronics/STM32CubeL4](https://github.com/STMicroelectronics/STM32CubeL4)
-2. 🗣 Commented on [#84](https://github.com/STMicroelectronics/STM32CubeL4/issues/84#issuecomment-2120973263) in [STMicroelectronics/STM32CubeL4](https://github.com/STMicroelectronics/STM32CubeL4)
-3. 🗣 Commented on [#84](https://github.com/STMicroelectronics/STM32CubeL4/issues/84#issuecomment-2120457622) in [STMicroelectronics/STM32CubeL4](https://github.com/STMicroelectronics/STM32CubeL4)
-4. 🔒 Closed issue [#12](https://github.com/mrjimenez/clone-tabnews/issues/12) in [mrjimenez/clone-tabnews](https://github.com/mrjimenez/clone-tabnews)
-5. 🗣 Commented on [#14](https://github.com/mrjimenez/JTAG/issues/14#issuecomment-2111254275) in [mrjimenez/JTAG](https://github.com/mrjimenez/JTAG)
+1. 🎉 Merged PR [#56](https://github.com/mrjimenez/real-world-nuxt/pull/56) in [mrjimenez/real-world-nuxt](https://github.com/mrjimenez/real-world-nuxt)
+2. 🎉 Merged PR [#51](https://github.com/mrjimenez/zeta_jsxgraph_template/pull/51) in [mrjimenez/zeta_jsxgraph_template](https://github.com/mrjimenez/zeta_jsxgraph_template)
+3. 🎉 Merged PR [#50](https://github.com/mrjimenez/zeta_jsxgraph_template/pull/50) in [mrjimenez/zeta_jsxgraph_template](https://github.com/mrjimenez/zeta_jsxgraph_template)
+4. 🗣 Commented on [#84](https://github.com/STMicroelectronics/STM32CubeL4/issues/84#issuecomment-2122255640) in [STMicroelectronics/STM32CubeL4](https://github.com/STMicroelectronics/STM32CubeL4)
+5. 🗣 Commented on [#84](https://github.com/STMicroelectronics/STM32CubeL4/issues/84#issuecomment-2120973263) in [STMicroelectronics/STM32CubeL4](https://github.com/STMicroelectronics/STM32CubeL4)
 <!--END_SECTION:activity-->
 
 ---
