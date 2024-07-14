@@ -38,11 +38,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#56](https://github.com/mrjimenez/real-world-nuxt/pull/56) in [mrjimenez/real-world-nuxt](https://github.com/mrjimenez/real-world-nuxt)
-2. 🎉 Merged PR [#51](https://github.com/mrjimenez/zeta_jsxgraph_template/pull/51) in [mrjimenez/zeta_jsxgraph_template](https://github.com/mrjimenez/zeta_jsxgraph_template)
-3. 🎉 Merged PR [#50](https://github.com/mrjimenez/zeta_jsxgraph_template/pull/50) in [mrjimenez/zeta_jsxgraph_template](https://github.com/mrjimenez/zeta_jsxgraph_template)
-4. 🗣 Commented on [#84](https://github.com/STMicroelectronics/STM32CubeL4/issues/84#issuecomment-2122255640) in [STMicroelectronics/STM32CubeL4](https://github.com/STMicroelectronics/STM32CubeL4)
-5. 🗣 Commented on [#84](https://github.com/STMicroelectronics/STM32CubeL4/issues/84#issuecomment-2120973263) in [STMicroelectronics/STM32CubeL4](https://github.com/STMicroelectronics/STM32CubeL4)
+1. 🗣 Commented on [#446](https://github.com/pupnp/pupnp/issues/446#issuecomment-2221168527) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
+2. 🗣 Commented on [#448](https://github.com/pupnp/pupnp/pull/448#issuecomment-2218645948) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
+3. 🎉 Merged PR [#447](https://github.com/pupnp/pupnp/pull/447) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
+4. 🗣 Commented on [#448](https://github.com/pupnp/pupnp/pull/448#issuecomment-2218543082) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
+5. ❌ Closed PR [#448](https://github.com/pupnp/pupnp/pull/448) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
 <!--END_SECTION:activity-->
 
 ---
