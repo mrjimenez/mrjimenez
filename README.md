@@ -38,11 +38,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#446](https://github.com/pupnp/pupnp/issues/446#issuecomment-2221168527) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
-2. 🗣 Commented on [#448](https://github.com/pupnp/pupnp/pull/448#issuecomment-2218645948) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
-3. 🎉 Merged PR [#447](https://github.com/pupnp/pupnp/pull/447) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
-4. 🗣 Commented on [#448](https://github.com/pupnp/pupnp/pull/448#issuecomment-2218543082) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
-5. ❌ Closed PR [#448](https://github.com/pupnp/pupnp/pull/448) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
+1. 🎉 Merged PR [#52](https://github.com/mrjimenez/zeta_jsxgraph_template/pull/52) in [mrjimenez/zeta_jsxgraph_template](https://github.com/mrjimenez/zeta_jsxgraph_template)
+2. 🗣 Commented on [#446](https://github.com/pupnp/pupnp/issues/446#issuecomment-2221168527) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
+3. 🗣 Commented on [#448](https://github.com/pupnp/pupnp/pull/448#issuecomment-2218645948) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
+4. 🎉 Merged PR [#447](https://github.com/pupnp/pupnp/pull/447) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
+5. 🗣 Commented on [#448](https://github.com/pupnp/pupnp/pull/448#issuecomment-2218543082) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
 <!--END_SECTION:activity-->
 
 ---
