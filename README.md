@@ -38,11 +38,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/mrjimenez/clone-tabnews/pull/16) in [mrjimenez/clone-tabnews](https://github.com/mrjimenez/clone-tabnews)
-2. 🎉 Merged PR [#15](https://github.com/mrjimenez/clone-tabnews/pull/15) in [mrjimenez/clone-tabnews](https://github.com/mrjimenez/clone-tabnews)
-3. 🎉 Merged PR [#2](https://github.com/mrjimenez/actions-learning-pathway/pull/2) in [mrjimenez/actions-learning-pathway](https://github.com/mrjimenez/actions-learning-pathway)
-4. 🎉 Merged PR [#54](https://github.com/mrjimenez/zeta_jsxgraph_template/pull/54) in [mrjimenez/zeta_jsxgraph_template](https://github.com/mrjimenez/zeta_jsxgraph_template)
-5. 🎉 Merged PR [#53](https://github.com/mrjimenez/zeta_jsxgraph_template/pull/53) in [mrjimenez/zeta_jsxgraph_template](https://github.com/mrjimenez/zeta_jsxgraph_template)
+1. 🔒 Closed issue [#449](https://github.com/pupnp/pupnp/issues/449) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
+2. 🎉 Merged PR [#451](https://github.com/pupnp/pupnp/pull/451) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
+3. 🗣 Commented on [#449](https://github.com/pupnp/pupnp/issues/449#issuecomment-2392053936) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
+4. 🎉 Merged PR [#450](https://github.com/pupnp/pupnp/pull/450) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
+5. 🗣 Commented on [#449](https://github.com/pupnp/pupnp/issues/449#issuecomment-2389688980) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
 <!--END_SECTION:activity-->
 
 ---
