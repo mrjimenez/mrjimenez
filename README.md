@@ -38,11 +38,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#55](https://github.com/mrjimenez/zeta_jsxgraph_template/pull/55) in [mrjimenez/zeta_jsxgraph_template](https://github.com/mrjimenez/zeta_jsxgraph_template)
-2. 🚀 Published release [release-1.14.20](https://github.com/pupnp/pupnp/releases/tag/release-1.14.20) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
-3. 🔒 Closed issue [#449](https://github.com/pupnp/pupnp/issues/449) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
-4. 🎉 Merged PR [#451](https://github.com/pupnp/pupnp/pull/451) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
-5. 🗣 Commented on [#449](https://github.com/pupnp/pupnp/issues/449#issuecomment-2392053936) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
+1. 🎉 Merged PR [#460](https://github.com/pupnp/pupnp/pull/460) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
+2. 💪 Opened PR [#460](https://github.com/pupnp/pupnp/pull/460) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
+3. 🎉 Merged PR [#455](https://github.com/pupnp/pupnp/pull/455) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
+4. 💪 Opened PR [#455](https://github.com/pupnp/pupnp/pull/455) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
+5. 🎉 Merged PR [#454](https://github.com/pupnp/pupnp/pull/454) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
 <!--END_SECTION:activity-->
 
 ---
