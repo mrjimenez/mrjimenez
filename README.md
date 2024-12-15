@@ -38,11 +38,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#469](https://github.com/pupnp/pupnp/issues/469#issuecomment-2525295287) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
-2. 🗣 Commented on [#469](https://github.com/pupnp/pupnp/issues/469#issuecomment-2523372271) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
-3. 🎉 Merged PR [#468](https://github.com/pupnp/pupnp/pull/468) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
-4. 💪 Opened PR [#468](https://github.com/pupnp/pupnp/pull/468) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
-5. 🎉 Merged PR [#461](https://github.com/pupnp/pupnp/pull/461) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
+1. 🗣 Commented on [#469](https://github.com/pupnp/pupnp/issues/469#issuecomment-2526364532) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
+2. 🗣 Commented on [#469](https://github.com/pupnp/pupnp/issues/469#issuecomment-2526364009) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
+3. 🗣 Commented on [#469](https://github.com/pupnp/pupnp/issues/469#issuecomment-2525295287) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
+4. 🗣 Commented on [#469](https://github.com/pupnp/pupnp/issues/469#issuecomment-2523372271) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
+5. 🎉 Merged PR [#468](https://github.com/pupnp/pupnp/pull/468) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
 <!--END_SECTION:activity-->
 
 ---
