@@ -38,11 +38,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#19](https://github.com/mrjimenez/clone-tabnews/pull/19) in [mrjimenez/clone-tabnews](https://github.com/mrjimenez/clone-tabnews)
-2. 🎉 Merged PR [#4](https://github.com/mrjimenez/actions-learning-pathway/pull/4) in [mrjimenez/actions-learning-pathway](https://github.com/mrjimenez/actions-learning-pathway)
-3. 🔒 Closed issue [#193](https://github.com/pupnp/pupnp/issues/193) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
-4. 🗣 Commented on [#469](https://github.com/pupnp/pupnp/issues/469#issuecomment-2559729542) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
-5. 🎉 Merged PR [#17](https://github.com/mrjimenez/clone-tabnews/pull/17) in [mrjimenez/clone-tabnews](https://github.com/mrjimenez/clone-tabnews)
+1. 🔒 Closed issue [#18](https://github.com/mrjimenez/JTAG/issues/18) in [mrjimenez/JTAG](https://github.com/mrjimenez/JTAG)
+2. 🗣 Commented on [#18](https://github.com/mrjimenez/JTAG/issues/18#issuecomment-2593617023) in [mrjimenez/JTAG](https://github.com/mrjimenez/JTAG)
+3. 🎉 Merged PR [#19](https://github.com/mrjimenez/clone-tabnews/pull/19) in [mrjimenez/clone-tabnews](https://github.com/mrjimenez/clone-tabnews)
+4. 🎉 Merged PR [#4](https://github.com/mrjimenez/actions-learning-pathway/pull/4) in [mrjimenez/actions-learning-pathway](https://github.com/mrjimenez/actions-learning-pathway)
+5. 🔒 Closed issue [#193](https://github.com/pupnp/pupnp/issues/193) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
 <!--END_SECTION:activity-->
 
 ---
