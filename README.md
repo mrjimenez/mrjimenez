@@ -38,11 +38,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#472](https://github.com/pupnp/pupnp/pull/472) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
-2. 💪 Opened PR [#472](https://github.com/pupnp/pupnp/pull/472) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
-3. 🎉 Merged PR [#471](https://github.com/pupnp/pupnp/pull/471) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
-4. 🔒 Closed issue [#18](https://github.com/mrjimenez/JTAG/issues/18) in [mrjimenez/JTAG](https://github.com/mrjimenez/JTAG)
-5. 🗣 Commented on [#18](https://github.com/mrjimenez/JTAG/issues/18#issuecomment-2593617023) in [mrjimenez/JTAG](https://github.com/mrjimenez/JTAG)
+1. 💪 Opened PR [#473](https://github.com/pupnp/pupnp/pull/473) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
+2. 🎉 Merged PR [#1](https://github.com/mrjimenez/docker_ise/pull/1) in [mrjimenez/docker_ise](https://github.com/mrjimenez/docker_ise)
+3. 🎉 Merged PR [#472](https://github.com/pupnp/pupnp/pull/472) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
+4. 💪 Opened PR [#472](https://github.com/pupnp/pupnp/pull/472) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
+5. 🎉 Merged PR [#471](https://github.com/pupnp/pupnp/pull/471) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
 <!--END_SECTION:activity-->
 
 ---
