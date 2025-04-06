@@ -38,7 +38,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/mrjimenez/docker_ise/pull/2) in [mrjimenez/docker_ise](https://github.com/mrjimenez/docker_ise)
+1. 🎉 Merged PR [#6](https://github.com/mrjimenez/actions-learning-pathway/pull/6) in [mrjimenez/actions-learning-pathway](https://github.com/mrjimenez/actions-learning-pathway)
 2. 🎉 Merged PR [#474](https://github.com/pupnp/pupnp/pull/474) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
 3. 💪 Opened PR [#474](https://github.com/pupnp/pupnp/pull/474) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
 4. 💪 Opened PR [#2](https://github.com/mrjimenez/docker_ise/pull/2) in [mrjimenez/docker_ise](https://github.com/mrjimenez/docker_ise)
