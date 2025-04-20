@@ -38,11 +38,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/mrjimenez/actions-learning-pathway/pull/6) in [mrjimenez/actions-learning-pathway](https://github.com/mrjimenez/actions-learning-pathway)
-2. 🎉 Merged PR [#474](https://github.com/pupnp/pupnp/pull/474) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
-3. 💪 Opened PR [#474](https://github.com/pupnp/pupnp/pull/474) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
-4. 💪 Opened PR [#2](https://github.com/mrjimenez/docker_ise/pull/2) in [mrjimenez/docker_ise](https://github.com/mrjimenez/docker_ise)
-5. 🎉 Merged PR [#473](https://github.com/pupnp/pupnp/pull/473) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
+1. 🎉 Merged PR [#56](https://github.com/mrjimenez/zeta_jsxgraph_template/pull/56) in [mrjimenez/zeta_jsxgraph_template](https://github.com/mrjimenez/zeta_jsxgraph_template)
+2. 🎉 Merged PR [#478](https://github.com/pupnp/pupnp/pull/478) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
+3. 💪 Opened PR [#478](https://github.com/pupnp/pupnp/pull/478) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
+4. 💪 Opened PR [#477](https://github.com/pupnp/pupnp/pull/477) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
+5. 🗣 Commented on [#476](https://github.com/pupnp/pupnp/pull/476#issuecomment-2800160579) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
 <!--END_SECTION:activity-->
 
 ---
