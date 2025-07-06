@@ -38,11 +38,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#20](https://github.com/mrjimenez/clone-tabnews/pull/20) in [mrjimenez/clone-tabnews](https://github.com/mrjimenez/clone-tabnews)
-2. 🎉 Merged PR [#493](https://github.com/pupnp/pupnp/pull/493) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
-3. 💪 Opened PR [#493](https://github.com/pupnp/pupnp/pull/493) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
-4. 🎉 Merged PR [#492](https://github.com/pupnp/pupnp/pull/492) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
-5. 💪 Opened PR [#492](https://github.com/pupnp/pupnp/pull/492) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
+1. 💪 Opened PR [#54](https://github.com/WeActStudio/MiniSTM32H7xx/pull/54) in [WeActStudio/MiniSTM32H7xx](https://github.com/WeActStudio/MiniSTM32H7xx)
+2. 🎉 Merged PR [#20](https://github.com/mrjimenez/clone-tabnews/pull/20) in [mrjimenez/clone-tabnews](https://github.com/mrjimenez/clone-tabnews)
+3. 🎉 Merged PR [#493](https://github.com/pupnp/pupnp/pull/493) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
+4. 💪 Opened PR [#493](https://github.com/pupnp/pupnp/pull/493) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
+5. 🎉 Merged PR [#492](https://github.com/pupnp/pupnp/pull/492) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
 <!--END_SECTION:activity-->
 
 ---
