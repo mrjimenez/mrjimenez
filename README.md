@@ -38,8 +38,8 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#54](https://github.com/WeActStudio/MiniSTM32H7xx/pull/54) in [WeActStudio/MiniSTM32H7xx](https://github.com/WeActStudio/MiniSTM32H7xx)
-2. 🎉 Merged PR [#20](https://github.com/mrjimenez/clone-tabnews/pull/20) in [mrjimenez/clone-tabnews](https://github.com/mrjimenez/clone-tabnews)
+1. 🗣 Commented on [#494](https://github.com/pupnp/pupnp/issues/494#issuecomment-3071537417) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
+2. 💪 Opened PR [#54](https://github.com/WeActStudio/MiniSTM32H7xx/pull/54) in [WeActStudio/MiniSTM32H7xx](https://github.com/WeActStudio/MiniSTM32H7xx)
 3. 🎉 Merged PR [#493](https://github.com/pupnp/pupnp/pull/493) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
 4. 💪 Opened PR [#493](https://github.com/pupnp/pupnp/pull/493) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
 5. 🎉 Merged PR [#492](https://github.com/pupnp/pupnp/pull/492) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
