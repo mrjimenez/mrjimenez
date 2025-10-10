@@ -38,11 +38,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#349](https://github.com/amule-project/amule/issues/349) in [amule-project/amule](https://github.com/amule-project/amule)
-2. 🗣 Commented on [#421](https://github.com/pupnp/pupnp/issues/421) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
-3. 🎉 Merged PR [#421](https://github.com/pupnp/pupnp/pull/421) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
-4. 🗣 Commented on [#349](https://github.com/amule-project/amule/issues/349) in [amule-project/amule](https://github.com/amule-project/amule)
-5. 🗣 Commented on [#349](https://github.com/amule-project/amule/issues/349) in [amule-project/amule](https://github.com/amule-project/amule)
+1. 🗣 Commented on [#97232](https://github.com/zephyrproject-rtos/zephyr/pull/97232#issuecomment-3385813672) in [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr)
+2. 🗣 Commented on [#3596](https://github.com/gerbera/gerbera/issues/3596#issuecomment-3285094765) in [gerbera/gerbera](https://github.com/gerbera/gerbera)
+3. 🎉 Merged PR [#496](https://github.com/pupnp/pupnp/pull/496) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
+4. 🗣 Commented on [#496](https://github.com/pupnp/pupnp/pull/496#issuecomment-3282738901) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
+5. 🗣 Commented on [#3596](https://github.com/gerbera/gerbera/issues/3596#issuecomment-3276406121) in [gerbera/gerbera](https://github.com/gerbera/gerbera)
 <!--END_SECTION:activity-->
 
 ---
