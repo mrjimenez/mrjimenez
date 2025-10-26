@@ -72,11 +72,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#498](https://github.com/pupnp/pupnp/issues/498) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
-2. ❌ Assigned PR [#501](undefined) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
-3. 🗣 Commented on [#501](https://github.com/pupnp/pupnp/pull/501#issuecomment-3417142771) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
-4. 💪 Opened PR [#97575](undefined) in [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr)
-5. 💪 Opened PR [#97503](undefined) in [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr)
+1. 🗣 Commented on [#504](https://github.com/pupnp/pupnp/pull/504#issuecomment-3443663520) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
+2. 💪 Opened PR [#503](undefined) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
+3. 🗣 Commented on [#502](https://github.com/pupnp/pupnp/issues/502#issuecomment-3433751425) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
+4. 🔒 Closed issue [#498](https://github.com/pupnp/pupnp/issues/498) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
+5. ❌ Assigned PR [#501](undefined) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
 <!--END_SECTION:activity-->
 
 ---
