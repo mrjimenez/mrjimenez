@@ -72,11 +72,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#504](https://github.com/pupnp/pupnp/pull/504#issuecomment-3443663520) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
-2. 💪 Opened PR [#503](undefined) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
-3. 🗣 Commented on [#502](https://github.com/pupnp/pupnp/issues/502#issuecomment-3433751425) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
-4. 🔒 Closed issue [#498](https://github.com/pupnp/pupnp/issues/498) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
-5. ❌ Assigned PR [#501](undefined) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
+1. 💪 Opened PR [#508](undefined) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
+2. 🔒 Closed issue [#506](https://github.com/pupnp/pupnp/issues/506) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
+3. 🗣 Commented on [#506](https://github.com/pupnp/pupnp/issues/506#issuecomment-3476621324) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
+4. 💪 Opened PR [#507](undefined) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
+5. 🗣 Commented on [#505](https://github.com/pupnp/pupnp/pull/505#issuecomment-3468214635) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
 <!--END_SECTION:activity-->
 
 ---
