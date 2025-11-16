@@ -72,11 +72,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#510](undefined) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
-2. 💪 Opened PR [#509](undefined) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
-3. 💪 Opened PR [#508](undefined) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
-4. 🔒 Closed issue [#506](https://github.com/pupnp/pupnp/issues/506) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
-5. 🗣 Commented on [#506](https://github.com/pupnp/pupnp/issues/506#issuecomment-3476621324) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
+1. 💪 Opened PR [#99429](undefined) in [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr)
+2. ❌ Closed PR [#99352](undefined) in [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr)
+3. 💪 Opened PR [#99428](undefined) in [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr)
+4. ❌ Closed PR [#99353](undefined) in [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr)
+5. 💪 Opened PR [#99353](undefined) in [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr)
 <!--END_SECTION:activity-->
 
 ---
