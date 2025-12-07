@@ -72,11 +72,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#37](undefined) in [zephyrproject-rtos/hal_infineon](https://github.com/zephyrproject-rtos/hal_infineon)
-2. 💪 Opened PR [#99621](undefined) in [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr)
-3. 🗣 Commented on [#99352](https://github.com/zephyrproject-rtos/zephyr/pull/99352#issuecomment-3542286399) in [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr)
-4. 🗣 Commented on [#99352](https://github.com/zephyrproject-rtos/zephyr/pull/99352#issuecomment-3541562213) in [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr)
-5. 💪 Opened PR [#99429](undefined) in [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr)
+1. 🗣 Commented on [#100260](https://github.com/zephyrproject-rtos/zephyr/pull/100260#issuecomment-3604718773) in [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr)
+2. 💪 Opened PR [#100260](undefined) in [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr)
+3. 💪 Opened PR [#37](undefined) in [zephyrproject-rtos/hal_infineon](https://github.com/zephyrproject-rtos/hal_infineon)
+4. 💪 Opened PR [#99621](undefined) in [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr)
+5. 🗣 Commented on [#99352](https://github.com/zephyrproject-rtos/zephyr/pull/99352#issuecomment-3542286399) in [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr)
 <!--END_SECTION:activity-->
 
 ---
