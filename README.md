@@ -72,11 +72,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#505](https://github.com/pupnp/pupnp/pull/505#issuecomment-3643819236) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
-2. 🗣 Commented on [#49155](https://github.com/zephyrproject-rtos/zephyr/issues/49155#issuecomment-3643335498) in [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr)
-3. 🗣 Commented on [#100902](https://github.com/zephyrproject-rtos/zephyr/pull/100902#issuecomment-3643217989) in [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr)
-4. ❌ Merged PR [#99429](undefined) in [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr)
-5. 💪 Opened PR [#36](undefined) in [mariusae/trickle](https://github.com/mariusae/trickle)
+1. 🗣 Commented on [#101010](https://github.com/zephyrproject-rtos/zephyr/pull/101010#issuecomment-3670308862) in [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr)
+2. 🗣 Commented on [#101010](https://github.com/zephyrproject-rtos/zephyr/pull/101010#issuecomment-3660232311) in [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr)
+3.  Labeled issue [#101115](https://github.com/zephyrproject-rtos/zephyr/issues/101115) in [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr)
+4. ❗ Opened issue [#101115](https://github.com/zephyrproject-rtos/zephyr/issues/101115) in [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr)
+5. 💪 Opened PR [#101012](undefined) in [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr)
 <!--END_SECTION:activity-->
 
 ---
