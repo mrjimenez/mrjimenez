@@ -72,7 +72,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#101010](https://github.com/zephyrproject-rtos/zephyr/pull/101010#issuecomment-3670308862) in [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr)
+1. 🗣 Commented on [#518](https://github.com/pupnp/pupnp/pull/518#issuecomment-3759649930) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
 2. 🗣 Commented on [#101010](https://github.com/zephyrproject-rtos/zephyr/pull/101010#issuecomment-3660232311) in [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr)
 3. ℹ️ Labeled issue [#101115](https://github.com/zephyrproject-rtos/zephyr/issues/101115) in [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr)
 4. ❗ Opened issue [#101115](https://github.com/zephyrproject-rtos/zephyr/issues/101115) in [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr)
