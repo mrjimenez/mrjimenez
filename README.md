@@ -72,11 +72,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#101010](https://github.com/zephyrproject-rtos/zephyr/pull/101010) in [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr)
-2. 🎉 Merged PR [#99621](https://github.com/zephyrproject-rtos/zephyr/pull/99621) in [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr)
-3. 🗣 Commented on [#519](https://github.com/pupnp/pupnp/pull/519#issuecomment-3787741885) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
-4. 🎉 Merged PR [#100699](https://github.com/zephyrproject-rtos/zephyr/pull/100699) in [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr)
-5. 🗣 Commented on [#100260](https://github.com/zephyrproject-rtos/zephyr/pull/100260#issuecomment-3784370146) in [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr)
+1. 🗣 Commented on [#99428](https://github.com/zephyrproject-rtos/zephyr/pull/99428#issuecomment-3829715030) in [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr)
+2. 🎉 Merged PR [#16](https://github.com/mrjimenez/actions-learning-pathway/pull/16) in [mrjimenez/actions-learning-pathway](https://github.com/mrjimenez/actions-learning-pathway)
+3. 💪 Opened PR [#16](https://github.com/mrjimenez/actions-learning-pathway/pull/16) in [mrjimenez/actions-learning-pathway](https://github.com/mrjimenez/actions-learning-pathway)
+4. 🗣 Commented on [#100260](https://github.com/zephyrproject-rtos/zephyr/pull/100260#issuecomment-3797162440) in [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr)
+5. ❌ Closed PR [#100260](https://github.com/zephyrproject-rtos/zephyr/pull/100260) in [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr)
 <!--END_SECTION:activity-->
 
 ---
