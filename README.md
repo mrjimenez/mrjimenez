@@ -72,11 +72,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#99428](https://github.com/zephyrproject-rtos/zephyr/pull/99428#issuecomment-3829715030) in [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr)
-2. 🎉 Merged PR [#16](https://github.com/mrjimenez/actions-learning-pathway/pull/16) in [mrjimenez/actions-learning-pathway](https://github.com/mrjimenez/actions-learning-pathway)
-3. 💪 Opened PR [#16](https://github.com/mrjimenez/actions-learning-pathway/pull/16) in [mrjimenez/actions-learning-pathway](https://github.com/mrjimenez/actions-learning-pathway)
-4. 🗣 Commented on [#100260](https://github.com/zephyrproject-rtos/zephyr/pull/100260#issuecomment-3797162440) in [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr)
-5. ❌ Closed PR [#100260](https://github.com/zephyrproject-rtos/zephyr/pull/100260) in [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr)
+1. 🔒 Closed issue [#520](https://github.com/pupnp/pupnp/issues/520) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
+2. 🔓 Reopened issue [#520](https://github.com/pupnp/pupnp/issues/520) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
+3. 🔒 Closed issue [#520](https://github.com/pupnp/pupnp/issues/520) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
+4. 🗣 Commented on [#520](https://github.com/pupnp/pupnp/issues/520#issuecomment-3865636785) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
+5. 🗣 Commented on [#520](https://github.com/pupnp/pupnp/issues/520#issuecomment-3865557469) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
 <!--END_SECTION:activity-->
 
 ---
