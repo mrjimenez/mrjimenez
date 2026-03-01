@@ -72,11 +72,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#99428](https://github.com/zephyrproject-rtos/zephyr/pull/99428) in [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr)
-2. 🎉 Merged PR [#54](https://github.com/WeActStudio/MiniSTM32H7xx/pull/54) in [WeActStudio/MiniSTM32H7xx](https://github.com/WeActStudio/MiniSTM32H7xx)
-3. 🗣 Commented on [#529](https://github.com/pupnp/pupnp/issues/529#issuecomment-3886263190) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
-4. 🔓 Reopened issue [#529](https://github.com/pupnp/pupnp/issues/529) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
-5. 🎉 Merged PR [#530](https://github.com/pupnp/pupnp/pull/530) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
+1. 🗣 Commented on [#101012](https://github.com/zephyrproject-rtos/zephyr/pull/101012#issuecomment-3978722805) in [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr)
+2. 🔒 Closed issue [#517](https://github.com/pupnp/pupnp/issues/517) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
+3. 🎉 Merged PR [#531](https://github.com/pupnp/pupnp/pull/531) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
+4. 💪 Opened PR [#531](https://github.com/pupnp/pupnp/pull/531) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
+5. 💪 Opened PR [#19](https://github.com/mrjimenez/actions-learning-pathway/pull/19) in [mrjimenez/actions-learning-pathway](https://github.com/mrjimenez/actions-learning-pathway)
 <!--END_SECTION:activity-->
 
 ---
