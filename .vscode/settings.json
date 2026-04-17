@@ -1,5 +1,14 @@
 {
+	"[markdown]": {
+		/* This allows the clangd extension to format the file */
+		"editor.defaultFormatter": "DavidAnson.vscode-markdownlint",
+		"editor.formatOnSave": true,
+		"editor.tabSize": 2,
+		"editor.insertSpaces": true,
+		"editor.useTabStops": false,
+	},
 	"cSpell.words": [
+		"amule",
 		"arduino",
 		"CPLD",
 		"cplusplus",
@@ -8,6 +17,7 @@
 		"heroku",
 		"hideborder",
 		"jamesgeorge",
+		"Linkedin",
 		"linux",
 		"marcelojimenez",
 		"mariadb",
