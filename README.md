@@ -12,9 +12,12 @@
 
 <!-- markdownlint-disable MD033  -->
 
-<a href="https://linkedin.com/in/marcelojimenez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcelojimenez" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/4970108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4970108" height="30" width="40" /></a>
-<a href="https://eeandcs.blogspot.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://eeandcs.blogspot.com" height="30" width="40" /></a>
+<!-- [![Linkedin Icon](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/marcelojimenez)
+[![Stack Overflow Icon](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg)](https://stackoverflow.com/users/4970108)
+[![Blogger Icon](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg)](https://eeandcs.blogspot.com)
+-->
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/marcelojimenez) [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/4970108) [![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://eeandcs.blogspot.com)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
