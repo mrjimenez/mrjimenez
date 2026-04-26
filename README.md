@@ -49,11 +49,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#450](https://github.com/amule-project/amule/pull/450) in [amule-project/amule](https://github.com/amule-project/amule)
-2. 💪 Opened PR [#450](https://github.com/amule-project/amule/pull/450) in [amule-project/amule](https://github.com/amule-project/amule)
-3. 🗣 Commented on [#337](https://github.com/amule-project/amule/pull/337#issuecomment-4256744145) in [amule-project/amule](https://github.com/amule-project/amule)
-4. 🗣 Commented on [#43](https://github.com/amule-project/amule/pull/43#issuecomment-4256659973) in [amule-project/amule](https://github.com/amule-project/amule)
-5. 🎉 Merged PR [#449](https://github.com/amule-project/amule/pull/449) in [amule-project/amule](https://github.com/amule-project/amule)
+1. ❌ Closed PR [#4](https://github.com/mrjimenez/amule/pull/4) in [mrjimenez/amule](https://github.com/mrjimenez/amule)
+2. 🎉 Merged PR [#478](https://github.com/amule-project/amule/pull/478) in [amule-project/amule](https://github.com/amule-project/amule)
+3. 💪 Opened PR [#478](https://github.com/amule-project/amule/pull/478) in [amule-project/amule](https://github.com/amule-project/amule)
+4. 💪 Opened PR [#4](https://github.com/mrjimenez/amule/pull/4) in [mrjimenez/amule](https://github.com/mrjimenez/amule)
+5. 🎉 Merged PR [#477](https://github.com/amule-project/amule/pull/477) in [amule-project/amule](https://github.com/amule-project/amule)
 <!--END_SECTION:activity-->
 
 ---
