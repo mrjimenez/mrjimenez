@@ -49,11 +49,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#516](https://github.com/amule-project/amule/pull/516) in [amule-project/amule](https://github.com/amule-project/amule)
-2. 💪 Opened PR [#516](https://github.com/amule-project/amule/pull/516) in [amule-project/amule](https://github.com/amule-project/amule)
-3. 🗣 Commented on [#72](https://github.com/amule-project/amule/pull/72#issuecomment-4363948425) in [amule-project/amule](https://github.com/amule-project/amule)
-4. 🗣 Commented on [#514](https://github.com/amule-project/amule/pull/514#issuecomment-4363905881) in [amule-project/amule](https://github.com/amule-project/amule)
-5. 🗣 Commented on [#508](https://github.com/amule-project/amule/pull/508#issuecomment-4361874282) in [amule-project/amule](https://github.com/amule-project/amule)
+1. 🔒 Closed issue [#535](https://github.com/amule-project/amule/issues/535) in [amule-project/amule](https://github.com/amule-project/amule)
+2. 🔒 Closed issue [#531](https://github.com/amule-project/amule/issues/531) in [amule-project/amule](https://github.com/amule-project/amule)
+3. 🗣 Commented on [#530](https://github.com/amule-project/amule/pull/530#issuecomment-4397356781) in [amule-project/amule](https://github.com/amule-project/amule)
+4. 🗣 Commented on [#521](https://github.com/amule-project/amule/pull/521#issuecomment-4379467544) in [amule-project/amule](https://github.com/amule-project/amule)
+5. 🗣 Commented on [#526](https://github.com/amule-project/amule/pull/526#issuecomment-4378859646) in [amule-project/amule](https://github.com/amule-project/amule)
 <!--END_SECTION:activity-->
 
 ---
