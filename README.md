@@ -49,11 +49,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#535](https://github.com/amule-project/amule/issues/535) in [amule-project/amule](https://github.com/amule-project/amule)
-2. 🔒 Closed issue [#531](https://github.com/amule-project/amule/issues/531) in [amule-project/amule](https://github.com/amule-project/amule)
-3. 🗣 Commented on [#530](https://github.com/amule-project/amule/pull/530#issuecomment-4397356781) in [amule-project/amule](https://github.com/amule-project/amule)
-4. 🗣 Commented on [#521](https://github.com/amule-project/amule/pull/521#issuecomment-4379467544) in [amule-project/amule](https://github.com/amule-project/amule)
-5. 🗣 Commented on [#526](https://github.com/amule-project/amule/pull/526#issuecomment-4378859646) in [amule-project/amule](https://github.com/amule-project/amule)
+1. ℹ️ Labeled issue [#602](https://github.com/amule-project/amule/issues/602) in [amule-project/amule](https://github.com/amule-project/amule)
+2. ℹ️ Labeled issue [#640](https://github.com/amule-project/amule/issues/640) in [amule-project/amule](https://github.com/amule-project/amule)
+3. ℹ️ Labeled issue [#637](https://github.com/amule-project/amule/issues/637) in [amule-project/amule](https://github.com/amule-project/amule)
+4. ℹ️ Labeled issue [#636](https://github.com/amule-project/amule/issues/636) in [amule-project/amule](https://github.com/amule-project/amule)
+5. ℹ️ Labeled issue [#635](https://github.com/amule-project/amule/issues/635) in [amule-project/amule](https://github.com/amule-project/amule)
 <!--END_SECTION:activity-->
 
 ---
