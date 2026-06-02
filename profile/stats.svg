@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Marcelo Roberto Jimenez's GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 177, Total Commits  : 10006, Total PRs: 219, Total Issues: 29, Contributed to (last year): 9</desc>
+        <desc id="descId">Total Stars Earned: 177, Total Commits  : 10010, Total PRs: 219, Total Issues: 29, Contributed to (last year): 9</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 36.11314249734177;
+        stroke-dashoffset: 36.113029708534484;
       }
     }
   
