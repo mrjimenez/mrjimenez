@@ -49,11 +49,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#892](https://github.com/amule-project/amule/pull/892#issuecomment-4641230277) in [amule-project/amule](https://github.com/amule-project/amule)
-2. 🗣 Commented on [#892](https://github.com/amule-project/amule/pull/892#issuecomment-4641226233) in [amule-project/amule](https://github.com/amule-project/amule)
-3. 💪 Opened PR [#892](https://github.com/amule-project/amule/pull/892) in [amule-project/amule](https://github.com/amule-project/amule)
-4. 🎉 Merged PR [#119](https://github.com/amule-org/amule-org.github.io/pull/119) in [amule-org/amule-org.github.io](https://github.com/amule-org/amule-org.github.io)
-5. 🔒 Closed issue [#116](https://github.com/amule-org/amule-org.github.io/issues/116) in [amule-org/amule-org.github.io](https://github.com/amule-org/amule-org.github.io)
+1. 🔒 Closed issue [#843](https://github.com/amule-project/amule/issues/843) in [amule-project/amule](https://github.com/amule-project/amule)
+2. ℹ️ Labeled issue [#137](https://github.com/amule-org/amule/issues/137) in [amule-org/amule](https://github.com/amule-org/amule)
+3. ℹ️ Unlabeled issue [#136](https://github.com/amule-org/amule/issues/136) in [amule-org/amule](https://github.com/amule-org/amule)
+4. ℹ️ Labeled issue [#136](https://github.com/amule-org/amule/issues/136) in [amule-org/amule](https://github.com/amule-org/amule)
+5. ℹ️ Labeled issue [#136](https://github.com/amule-org/amule/issues/136) in [amule-org/amule](https://github.com/amule-org/amule)
 <!--END_SECTION:activity-->
 
 ---
