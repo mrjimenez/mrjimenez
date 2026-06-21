@@ -49,11 +49,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#843](https://github.com/amule-project/amule/issues/843) in [amule-project/amule](https://github.com/amule-project/amule)
-2. ℹ️ Labeled issue [#137](https://github.com/amule-org/amule/issues/137) in [amule-org/amule](https://github.com/amule-org/amule)
-3. ℹ️ Unlabeled issue [#136](https://github.com/amule-org/amule/issues/136) in [amule-org/amule](https://github.com/amule-org/amule)
-4. ℹ️ Labeled issue [#136](https://github.com/amule-org/amule/issues/136) in [amule-org/amule](https://github.com/amule-org/amule)
-5. ℹ️ Labeled issue [#136](https://github.com/amule-org/amule/issues/136) in [amule-org/amule](https://github.com/amule-org/amule)
+1. 🎉 Merged PR [#603](https://github.com/pupnp/pupnp/pull/603) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
+2. 💪 Opened PR [#603](https://github.com/pupnp/pupnp/pull/603) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
+3. ℹ️ Labeled issue [#197](https://github.com/amule-org/amule/issues/197) in [amule-org/amule](https://github.com/amule-org/amule)
+4. 🔒 Closed issue [#842](https://github.com/amule-project/amule/issues/842) in [amule-project/amule](https://github.com/amule-project/amule)
+5. 🎉 Merged PR [#602](https://github.com/pupnp/pupnp/pull/602) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
 <!--END_SECTION:activity-->
 
 ---
