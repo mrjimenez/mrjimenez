@@ -49,11 +49,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#675](https://github.com/amule-org/amule/issues/675#issuecomment-5131217849) in [amule-org/amule](https://github.com/amule-org/amule)
-2. 🔒 Closed issue [#701](https://github.com/amule-org/amule/issues/701) in [amule-org/amule](https://github.com/amule-org/amule)
-3. 🎉 Merged PR [#706](https://github.com/amule-org/amule/pull/706) in [amule-org/amule](https://github.com/amule-org/amule)
-4. 💪 Opened PR [#706](https://github.com/amule-org/amule/pull/706) in [amule-org/amule](https://github.com/amule-org/amule)
-5. 🎉 Merged PR [#705](https://github.com/amule-org/amule/pull/705) in [amule-org/amule](https://github.com/amule-org/amule)
+1. 🗣 Commented on [#395](https://github.com/zephyrproject-rtos/hal_stm32/pull/395#issuecomment-5228703340) in [zephyrproject-rtos/hal_stm32](https://github.com/zephyrproject-rtos/hal_stm32)
+2. ❗ Opened issue [#347](https://github.com/STMicroelectronics/STM32CubeH7/issues/347) in [STMicroelectronics/STM32CubeH7](https://github.com/STMicroelectronics/STM32CubeH7)
+3. 🎉 Merged PR [#862](https://github.com/amule-org/amule/pull/862) in [amule-org/amule](https://github.com/amule-org/amule)
+4. 💪 Opened PR [#862](https://github.com/amule-org/amule/pull/862) in [amule-org/amule](https://github.com/amule-org/amule)
+5. 🎉 Merged PR [#800](https://github.com/amule-org/amule/pull/800) in [amule-org/amule](https://github.com/amule-org/amule)
 <!--END_SECTION:activity-->
 
 ---
