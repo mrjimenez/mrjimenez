@@ -49,11 +49,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#395](https://github.com/zephyrproject-rtos/hal_stm32/pull/395#issuecomment-5228703340) in [zephyrproject-rtos/hal_stm32](https://github.com/zephyrproject-rtos/hal_stm32)
-2. ❗ Opened issue [#347](https://github.com/STMicroelectronics/STM32CubeH7/issues/347) in [STMicroelectronics/STM32CubeH7](https://github.com/STMicroelectronics/STM32CubeH7)
-3. 🎉 Merged PR [#862](https://github.com/amule-org/amule/pull/862) in [amule-org/amule](https://github.com/amule-org/amule)
-4. 💪 Opened PR [#862](https://github.com/amule-org/amule/pull/862) in [amule-org/amule](https://github.com/amule-org/amule)
-5. 🎉 Merged PR [#800](https://github.com/amule-org/amule/pull/800) in [amule-org/amule](https://github.com/amule-org/amule)
+1. 🗣 Commented on [#347](https://github.com/STMicroelectronics/STM32CubeH7/issues/347#issuecomment-5280561253) in [STMicroelectronics/STM32CubeH7](https://github.com/STMicroelectronics/STM32CubeH7)
+2. 🎉 Merged PR [#628](https://github.com/pupnp/pupnp/pull/628) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
+3. 💪 Opened PR [#628](https://github.com/pupnp/pupnp/pull/628) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
+4. 🗣 Commented on [#347](https://github.com/STMicroelectronics/STM32CubeH7/issues/347#issuecomment-5269019032) in [STMicroelectronics/STM32CubeH7](https://github.com/STMicroelectronics/STM32CubeH7)
+5. 🎉 Merged PR [#627](https://github.com/pupnp/pupnp/pull/627) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
 <!--END_SECTION:activity-->
 
 ---
