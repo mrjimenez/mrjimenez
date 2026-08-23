@@ -49,11 +49,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#347](https://github.com/STMicroelectronics/STM32CubeH7/issues/347#issuecomment-5280561253) in [STMicroelectronics/STM32CubeH7](https://github.com/STMicroelectronics/STM32CubeH7)
-2. 🎉 Merged PR [#628](https://github.com/pupnp/pupnp/pull/628) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
-3. 💪 Opened PR [#628](https://github.com/pupnp/pupnp/pull/628) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
-4. 🗣 Commented on [#347](https://github.com/STMicroelectronics/STM32CubeH7/issues/347#issuecomment-5269019032) in [STMicroelectronics/STM32CubeH7](https://github.com/STMicroelectronics/STM32CubeH7)
-5. 🎉 Merged PR [#627](https://github.com/pupnp/pupnp/pull/627) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
+1. 🗣 Commented on [#1051](https://github.com/amule-org/amule/issues/1051#issuecomment-5380981678) in [amule-org/amule](https://github.com/amule-org/amule)
+2. 🎉 Merged PR [#936](https://github.com/amule-org/amule/pull/936) in [amule-org/amule](https://github.com/amule-org/amule)
+3. 💪 Opened PR [#936](https://github.com/amule-org/amule/pull/936) in [amule-org/amule](https://github.com/amule-org/amule)
+4. 🗣 Commented on [#347](https://github.com/STMicroelectronics/STM32CubeH7/issues/347#issuecomment-5280561253) in [STMicroelectronics/STM32CubeH7](https://github.com/STMicroelectronics/STM32CubeH7)
+5. 🎉 Merged PR [#628](https://github.com/pupnp/pupnp/pull/628) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
 <!--END_SECTION:activity-->
 
 ---
