@@ -49,11 +49,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#883](https://github.com/amule-project/amule/issues/883) in [amule-project/amule](https://github.com/amule-project/amule)
-2. 🗣 Commented on [#837](https://github.com/amule-project/amule/issues/837#issuecomment-5417807128) in [amule-project/amule](https://github.com/amule-project/amule)
-3. 🗣 Commented on [#1136](https://github.com/amule-org/amule/issues/1136#issuecomment-5411510054) in [amule-org/amule](https://github.com/amule-org/amule)
-4. 🗣 Commented on [#1142](https://github.com/amule-org/amule/pull/1142#issuecomment-5411092405) in [amule-org/amule](https://github.com/amule-org/amule)
-5. 🗣 Commented on [#1051](https://github.com/amule-org/amule/issues/1051#issuecomment-5380981678) in [amule-org/amule](https://github.com/amule-org/amule)
+1. 🎉 Merged PR [#630](https://github.com/pupnp/pupnp/pull/630) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
+2. 💪 Opened PR [#630](https://github.com/pupnp/pupnp/pull/630) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
+3. 🗣 Commented on [#629](https://github.com/pupnp/pupnp/pull/629#issuecomment-5514349529) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
+4. 🗣 Commented on [#629](https://github.com/pupnp/pupnp/pull/629#issuecomment-5513934218) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
+5. 🗣 Commented on [#1239](https://github.com/amule-org/amule/pull/1239#issuecomment-5502011779) in [amule-org/amule](https://github.com/amule-org/amule)
 <!--END_SECTION:activity-->
 
 ---
