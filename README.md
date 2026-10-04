@@ -49,11 +49,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#640](https://github.com/pupnp/pupnp/pull/640) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
-2. 💪 Opened PR [#640](https://github.com/pupnp/pupnp/pull/640) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
-3. 🎉 Merged PR [#639](https://github.com/pupnp/pupnp/pull/639) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
-4. 💪 Opened PR [#639](https://github.com/pupnp/pupnp/pull/639) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
-5. ❌ Closed PR [#638](https://github.com/pupnp/pupnp/pull/638) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
+1. 🎉 Merged PR [#657](https://github.com/pupnp/pupnp/pull/657) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
+2. 💪 Opened PR [#657](https://github.com/pupnp/pupnp/pull/657) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
+3. 🎉 Merged PR [#656](https://github.com/pupnp/pupnp/pull/656) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
+4. 💪 Opened PR [#656](https://github.com/pupnp/pupnp/pull/656) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
+5. 🔒 Closed issue [#652](https://github.com/pupnp/pupnp/issues/652) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
 <!--END_SECTION:activity-->
 
 ---
