@@ -49,11 +49,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2230](https://github.com/amule-org/amule/pull/2230) in [amule-org/amule](https://github.com/amule-org/amule)
-2. 💪 Opened PR [#2230](https://github.com/amule-org/amule/pull/2230) in [amule-org/amule](https://github.com/amule-org/amule)
-3. 🎉 Merged PR [#2202](https://github.com/amule-org/amule/pull/2202) in [amule-org/amule](https://github.com/amule-org/amule)
-4. 💪 Opened PR [#2202](https://github.com/amule-org/amule/pull/2202) in [amule-org/amule](https://github.com/amule-org/amule)
-5. 🎉 Merged PR [#2124](https://github.com/amule-org/amule/pull/2124) in [amule-org/amule](https://github.com/amule-org/amule)
+1. 🎉 Merged PR [#674](https://github.com/pupnp/pupnp/pull/674) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
+2. 💪 Opened PR [#674](https://github.com/pupnp/pupnp/pull/674) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
+3. 🗣 Commented on [#2349](https://github.com/amule-org/amule/issues/2349#issuecomment-6691032012) in [amule-org/amule](https://github.com/amule-org/amule)
+4. 🎉 Merged PR [#2387](https://github.com/amule-org/amule/pull/2387) in [amule-org/amule](https://github.com/amule-org/amule)
+5. 💪 Opened PR [#2387](https://github.com/amule-org/amule/pull/2387) in [amule-org/amule](https://github.com/amule-org/amule)
 <!--END_SECTION:activity-->
 
 ---
