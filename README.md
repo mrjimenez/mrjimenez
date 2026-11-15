@@ -49,11 +49,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#674](https://github.com/pupnp/pupnp/pull/674) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
-2. 💪 Opened PR [#674](https://github.com/pupnp/pupnp/pull/674) in [pupnp/pupnp](https://github.com/pupnp/pupnp)
-3. 🗣 Commented on [#2349](https://github.com/amule-org/amule/issues/2349#issuecomment-6691032012) in [amule-org/amule](https://github.com/amule-org/amule)
-4. 🎉 Merged PR [#2387](https://github.com/amule-org/amule/pull/2387) in [amule-org/amule](https://github.com/amule-org/amule)
-5. 💪 Opened PR [#2387](https://github.com/amule-org/amule/pull/2387) in [amule-org/amule](https://github.com/amule-org/amule)
+1. 💪 Opened PR [#125795](https://github.com/zephyrproject-rtos/zephyr/pull/125795) in [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr)
+2. 💪 Opened PR [#125784](https://github.com/zephyrproject-rtos/zephyr/pull/125784) in [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr)
+3. 💪 Opened PR [#125697](https://github.com/zephyrproject-rtos/zephyr/pull/125697) in [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr)
+4. ❌ Closed PR [#37](https://github.com/zephyrproject-rtos/hal_infineon/pull/37) in [zephyrproject-rtos/hal_infineon](https://github.com/zephyrproject-rtos/hal_infineon)
+5. 🗣 Commented on [#37](https://github.com/zephyrproject-rtos/hal_infineon/pull/37#issuecomment-6840365572) in [zephyrproject-rtos/hal_infineon](https://github.com/zephyrproject-rtos/hal_infineon)
 <!--END_SECTION:activity-->
 
 ---
